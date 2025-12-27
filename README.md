@@ -4,4 +4,8 @@ This repository contains the Node.js/Express backend for the Oral Archives web a
 
 # group members:
 wareesha khan (B24F0114CS117)
+
 maryam khan   (B24F0114CS118)
+
+# SUPERVISION NOTE:
+this project was created for the data structures and algorithms (DSA) course under the supervision of lab engineer Obaidullah Miakhel.
